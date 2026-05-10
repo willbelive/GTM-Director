@@ -4,7 +4,7 @@
 
 ### The Situation
 
-You're the new Sales Director (Player-Coach) at a marketing agency mid-transition from traditional services to tech-enabled services. You carry a personal quota AND lead a small sales team. You sell the full portfolio — agency services, SaaS product, and ad platform — depending on what fits the prospect.
+You're the new Sales Director (Player-Coach) at a growth agency mid-transition from traditional services to tech-enabled services. You carry a personal quota AND lead a small sales team. You sell the full portfolio — agency services, SaaS product, and ad platform — depending on what fits the prospect.
 
 **The Company: Single Grain**
 - ~45-person digital marketing agency (SEO, Paid Media, Creative, CRO)
