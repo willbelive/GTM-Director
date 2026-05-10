@@ -1,4 +1,4 @@
-# Claude's Answer: Sales Director 010
+# Claude's Answer: Sales Director
 
 *This is Claude's response to the challenge brief. Your submission will be compared against this in a blind review.*
 
