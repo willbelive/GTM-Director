@@ -1,4 +1,4 @@
-# Challenge: Sales Director 010
+# Challenge: Sales Director
 
 ## Player-Coach: Build the Revenue Engine
 
